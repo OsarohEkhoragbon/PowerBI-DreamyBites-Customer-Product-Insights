@@ -54,6 +54,7 @@ This project demonstrates how Power BI can empower data-driven storytelling — 
 
 ### 💬 Contact
 For feedback, collaboration, or inquiries, feel free to connect via:
+
 📧 Email: osarohekhoragbon@gmail.com  
 💼 [Linkedin Project Link](https://www.linkedin.com/posts/osaroh-ekhoragbon_90daysofconsistency-osarohdataanalyticsjourneywith10alytics-activity-7321097386825515008-JPar?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAkcTOMBH04A-GBT9XWCy_GRBdwnuvWM7qY)  
 🌐 GitHub: [github.com/OsarohEkhoragbon](https://github.com/OsarohEkhoragbon)
